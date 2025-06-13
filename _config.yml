@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "William Njogu"
-  avatar : "/assets/photo.JPG"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name: "William Njogu"
+  avatar: "/assets/photo.JPG"
+  bio: "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
