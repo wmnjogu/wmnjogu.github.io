@@ -17,14 +17,23 @@ Associate's Degree in Cloud Computing.re/Start-Ajiraemobilis
 
 Certifications
 AWS Certified Cloud Practitioner - Amazon Web Services
+
 Azure Fundamentals - Microsoft
+
 HCIA-Security - Huawei ICT Academy
+
 HCIP-Security - Huawei ICT Academy
+
 HCIA-Datacom - Huawei ICT Academy
+
 Cyberops Associate - Cisco
+
 Network Security - Cisco
+
 Introduction to Cybersecurity - Cisco
+
 Networking Devices and Initial Configuration - Cisco
+
 NTSA Driving License 
 
 
