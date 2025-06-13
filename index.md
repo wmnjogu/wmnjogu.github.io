@@ -12,7 +12,7 @@ Education
 
 BSc in Telecommunications and Information Technology. Machakos University
 
-Associate's Degree in Cloud Computing.re/Start-Ajiraemobilis
+re/Start Program. Associate's Degree in Cloud Computing. Ajiraemobilis
 
 
 Certifications
