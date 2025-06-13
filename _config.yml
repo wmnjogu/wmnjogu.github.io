@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "William Njogu"
-  avatar : "/assets/Photo.JPG"
+  avatar : "/assets/photo.JPG"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
