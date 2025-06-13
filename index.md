@@ -11,6 +11,7 @@ author_profile: true
 Education
 
 BSc in Telecommunications and Information Technology. Machakos University
+
 Associate's Degree in Cloud Computing.re/Start-Ajiraemobilis
 
 
