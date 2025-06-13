@@ -6,14 +6,11 @@ layout: home
 author_profile: true
 ---
 
-# Curriculum Vitae - William Njogu
-
 Education
 
 BSc in Telecommunications and Information Technology. Machakos University
 
 re/Start Program. Associate's Degree in Cloud Computing. Ajiraemobilis
-
 
 Certifications
 
